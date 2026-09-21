@@ -1,0 +1,8 @@
+[submodule "HyGrow_Software"]
+	path = HyGrow_Software
+	url = https://github.com/Keys-3/HyGrow_Software.git
+	branch = main
+[submodule "HyGrow_IoT"]
+	path = HyGrow_IoT
+	url = https://github.com/Vaibhavsh0120/HyGrow_IoT.git
+	branch = main
