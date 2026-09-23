@@ -6,3 +6,6 @@
 	path = HyGrow_IoT
 	url = https://github.com/Vaibhavsh0120/HyGrow_IoT.git
 	branch = main
+[submodule "HyGrow_AI"]
+	path = HyGrow_AI
+	url = https://github.com/sam120904/HyGrow_AI.git
