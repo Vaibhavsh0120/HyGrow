@@ -1,4 +1,7 @@
-# Generated / Codex working folders
 .codex-finalizer/
 .codex-ppt-build/
+.codex-build/
 output/
+
+# PowerPoint temporary lock files
+~$*.pptx

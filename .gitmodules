@@ -9,3 +9,4 @@
 [submodule "HyGrow_AI"]
 	path = HyGrow_AI
 	url = https://github.com/sam120904/HyGrow_AI.git
+	branch = main
