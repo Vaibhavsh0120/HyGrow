@@ -8,3 +8,6 @@ Thumbs.db
 .vscode/
 .idea/
 
+
+# Encrypted environment backup (public recipient; plaintext remains ignored)
+!.env.age
